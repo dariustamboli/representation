@@ -1,11 +1,11 @@
 import "./RepCard.css";
 
 function RepCard(props) {
-  const RepInfo = `RepCard ${props.type}`;
+  const repCardClasses = `rep-card ${props.party}`;
   return (
-    <div className={RepInfo}>
+    <div className={repCardClasses}>
       <img
-        className="RepImage"
+        className="rep-image"
         src="https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png"
         alt="Placeholder"
       ></img>

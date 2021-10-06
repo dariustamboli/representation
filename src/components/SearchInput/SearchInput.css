@@ -1,9 +1,11 @@
-.searchInput input[type="text"] {
+.search-input input[type="text"] {
   float: left;
   font-size: 30px;
   padding: 10px;
-  margin: auto;
+  margin: 0 auto;
   height: 30px;
   margin-right: 10px;
   margin-bottom: 20px;
+  inline-size: 600px;
+  border-radius: 10px;
 }

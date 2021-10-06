@@ -11,20 +11,20 @@ function App() {
         <Header />
         <SearchInput />
         Or
-        <div className="locationButton">
+        <div className="location-button">
           <Button label="Use my location" />
         </div>
       </header>
-      <div className="RepBlock">
+      <div className="rep-block">
         <h2>Federal</h2>
-        <RepCard type="primary" />
-        <RepCard type="secondary" />
+        <RepCard party="repub" />
+        <RepCard party="dem" />
         <h2>State</h2>
-        <RepCard type="secondary" />
-        <RepCard type="primary" />
+        <RepCard party="dem" />
+        <RepCard party="repub" />
         <h2>Local</h2>
-        <RepCard type="secondary" />
-        <RepCard type="secondary" />
+        <RepCard party="dem" />
+        <RepCard party="dem" />
       </div>
     </div>
   );

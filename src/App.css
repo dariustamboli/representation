@@ -37,34 +37,16 @@
   }
 }
 
-.locationButton {
+.location-button {
   margin-top: 20px;
 }
 
-div.RepBlock + h2 {
+div.rep-block + h2 {
   font-size: 40px;
   justify-content: left;
 }
 
-.RepCard.primary {
-  display: flex;
-  justify-content: left;
-  text-align: left;
-  border: 5px solid blue;
-  margin: 10px;
-  border-radius: 10px;
-}
-
-.RepCard.secondary {
-  display: flex;
-  justify-content: left;
-  text-align: left;
-  border: 5px solid red;
-  margin: 10px;
-  border-radius: 10px;
-}
-
-.RepBlock {
+.rep-block {
   background-color: #282c34;
   color: white;
 }

@@ -1,14 +1,22 @@
-.RepImage {
+.rep-image {
   width: 200px;
   float: left;
   box-align: left;
   margin: 5px;
 }
 
-.RepInfo {
+.rep-card {
   display: flex;
   justify-content: left;
   text-align: left;
-  border: 5px solid blue;
   margin: 10px;
+  border-radius: 10px;
+}
+
+.rep-card.dem {
+  border: 5px solid blue;
+}
+
+.rep-card.repub {
+  border: 5px solid red;
 }
