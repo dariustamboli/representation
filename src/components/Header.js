@@ -1,4 +1,3 @@
-import React, { PureComponent } from "react";
 import "./Header.css";
 
 function Header() {
@@ -11,4 +10,3 @@ function Header() {
 }
 
 export default Header;
-        

@@ -1,0 +1,14 @@
+.RepImage {
+  width: 200px;
+  float: left;
+  box-align: left;
+  margin: 5px;
+}
+
+.RepInfo {
+  display: flex;
+  justify-content: left;
+  text-align: left;
+  border: 5px solid blue;
+  margin: 10px;
+}

@@ -36,3 +36,35 @@
     transform: rotate(360deg);
   }
 }
+
+.locationButton {
+  margin-top: 20px;
+}
+
+div.RepBlock + h2 {
+  font-size: 40px;
+  justify-content: left;
+}
+
+.RepCard.primary {
+  display: flex;
+  justify-content: left;
+  text-align: left;
+  border: 5px solid blue;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+.RepCard.secondary {
+  display: flex;
+  justify-content: left;
+  text-align: left;
+  border: 5px solid red;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+.RepBlock {
+  background-color: #282c34;
+  color: white;
+}
