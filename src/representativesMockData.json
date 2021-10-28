@@ -1,0 +1,180 @@
+{
+  "representatives": [
+    {
+      "name": "Joseph R. Biden",
+      "position": "President of the United States",
+      "party": "Democrat",
+      "jurisdiction": "Federal",
+      "website": [
+        "https://www.whitehouse.gov/",
+        "https://joebiden.com/presidency-for-all-americans/"
+      ],
+      "phone": "(202) 456-1111",
+      "email": "",
+      "imageLink": "",
+      "address": {
+        "streetAddress": "1600 Pennsylvania Avenue, Northwest",
+        "city": "Washington",
+        "state": "DC",
+        "zipcode": "20500"
+      },
+      "enteredOffice": "January 2021",
+      "nextElection": "2024"
+    },
+
+    {
+      "name": "Kamala D. Harris",
+      "position": "Vice President of the United States",
+      "party": "Democrat",
+      "jurisdiction": "Federal",
+      "website": [
+        "https://www.whitehouse.gov/",
+        "https://www.whitehouse.gov/administration/vice-president-harris/"
+      ],
+      "phone": "(202) 456-1111",
+      "email": "",
+      "imageLink": "",
+      "address": {
+        "streetAddress": "1600 Pennsylvania Avenue, Northwest",
+        "city": "Washington",
+        "state": "DC",
+        "zipcode": "20500"
+      },
+      "enteredOffice": "January 2021",
+      "nextElection": "2024"
+    },
+    {
+      "name": "John Cornyn",
+      "position": "United States Senator",
+      "party": "Republican",
+      "jurisdiction": "Federal",
+      "website": ["https://www.cornyn.senate.gov/"],
+      "phone": "(202) 224-2934",
+      "email": "",
+      "imageLink": "",
+      "address": {
+        "streetAddress": "517 Hart Office Building",
+        "city": "Washington",
+        "state": "DC",
+        "zipcode": "20510"
+      },
+      "enteredOffice": "December 2002",
+      "nextElection": "2026"
+    },
+    {
+      "name": "Troy Nehls",
+      "position": "United States Representative",
+      "party": "Republican",
+      "jurisdiction": "Federal",
+      "website": ["https://nehls.house.gov/"],
+      "phone": "(202) 225-5951",
+      "email": "",
+      "imageLink": "",
+      "address": {
+        "streetAddress": "1104 Longworth House Office Building",
+        "city": "Washington",
+        "state": "DC",
+        "zipcode": "20515"
+      },
+      "enteredOffice": "January 2021",
+      "nextElection": "2022"
+    },
+    {
+      "name": "Joan Huffman",
+      "position": "Texas State Senator",
+      "party": "Republican",
+      "jurisdiction": "State",
+      "website": [
+        "https://senate.texas.gov/member.php?d=17",
+        "https://www.joanhuffman.com/"
+      ],
+      "phone": "(512) 463-0117",
+      "email": "joan.huffman@senate.texas.gov",
+      "imageLink": "",
+      "address": {
+        "streetAddress": "P.O Box 12068",
+        "city": "Austin",
+        "state": "TX",
+        "zipcode": "78711"
+      },
+      "enteredOffice": "January 2009",
+      "nextElection": "2022"
+    },
+    {
+      "name": "Greg Abbott",
+      "position": "Governor of Texas",
+      "party": "Republican",
+      "jurisdiction": "State",
+      "website": ["https://gov.texas.gov/", "https://www.gregabbott.com/"],
+      "phone": "(512) 463-2000",
+      "email": "Info@GregAbbott.com",
+      "imageLink": "",
+      "address": {
+        "streetAddress": "Texans for Greg Abbott P.O Box 12428",
+        "city": "Austin",
+        "state": "TX",
+        "zipcode": "78711-2428"
+      },
+      "enteredOffice": "January 2015",
+      "nextElection": "2022"
+    },
+    {
+      "name": "Dan Patrick",
+      "position": "Lieutenant Governor of Texas",
+      "party": "Republican",
+      "jurisdiction": "State",
+      "website": ["https://www.ltgov.texas.gov/"],
+      "phone": "(512) 463-5342",
+      "email": "LTGConstituent.Affairs@ltgov.texas.gov",
+      "imageLink": "",
+      "address": {
+        "streetAddress": "Office of the Lieutenant Governor P.O Box 12068",
+        "city": "Austin",
+        "state": "TX",
+        "zipcode": "78711"
+      },
+      "enteredOffice": "January 2014",
+      "nextElection": "2022"
+    },
+    {
+      "name": "Brian Middleton",
+      "position": "Fort Bend County District Attonrey",
+      "party": "Democrat",
+      "jurisdiction": "County",
+      "website": [
+        "https://www.fortbendcountytx.gov/government/departments/administration-of-justice/district-attorney"
+      ],
+      "phone": "(281) 341-4460",
+      "email": " brian.middleton@fortbendcountytx.gov",
+      "imageLink": "",
+      "address": {
+        "streetAddress": "1422 Eugene Heimann Circle, Suite 21004",
+        "city": "Richmond",
+        "state": "TX",
+        "zipcode": "77469"
+      },
+      "enteredOffice": "January 2019",
+      "nextElection": "2022"
+    },
+    {
+      "name": "KP George",
+      "position": "Fort Bend County Judge",
+      "party": "Democrat",
+      "jurisdiction": "County",
+      "website": [
+        "https://www.fortbendcountytx.gov/government/departments/administration-of-justice/commissioners-court/county-judge"
+      ],
+      "phone": "(281) 341-8608",
+      "email": "fbc.judge@fortbendcountytx.gov",
+      "imageLink": "",
+      "address": {
+        "streetAddress": "401 Jackson St.",
+        "city": "Richmond",
+        "state": "TX",
+        "zipcode": "77469"
+      },
+      "enteredOffice": "January 2019",
+      "nextElection": "2022"
+    }
+  ]
+}
