@@ -3,6 +3,7 @@ import Header from "./components/Header";
 import SearchInput from "./components/SearchInput/SearchInput";
 import Button from "./components/Button/Button";
 import RepCard from "./components/RepCard/RepCard";
+// import { representatives } from "./representativesMockData.json";
 
 function App() {
   return (
@@ -10,7 +11,7 @@ function App() {
       <header className="App-header">
         <Header />
         <SearchInput />
-        Or
+        <p className="spacing">Or</p>
         <div className="location-button">
           <Button label="Use my location" />
         </div>
